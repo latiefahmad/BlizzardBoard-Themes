@@ -2,5 +2,3 @@ BlizzardBoard Themes for ios Jailed devices you can get the blizzardboard app fr
 After that you can install the themes remember to extract the zip file then go into filza and copy it to /var/mobile/themes/
 and open BlizzardBoard then hit enable on your choice of theme
 
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E1FO11L)
